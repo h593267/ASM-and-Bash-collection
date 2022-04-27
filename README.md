@@ -1,2 +1,2 @@
 # ASM-and-Bash-collection
-Collection of school related x86 assembly and bash scripts. 
+Collection of mostly school related x86 assembly and bash scripts. 
